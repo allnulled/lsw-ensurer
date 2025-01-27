@@ -1,6 +1,8 @@
-# ensure
+# lsw-ensurer
 
 Simple API to do checks and keep good error reporting. For node.js or browser.
+
+Branch of [@allnulled/ensure](https://github.com/allnulled/ensure).
 
 ## Installation
 
