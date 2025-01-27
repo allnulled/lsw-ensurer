@@ -1,0 +1,12 @@
+{
+  "name": "@allnulled/ensure",
+  "version": "1.0.0",
+  "description": "Simple API to do checks and keep good error reporting. For node.js or browser.",
+  "main": "ensure.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["check", "assert", "expect", "test", "ensure"],
+  "author": "allnulled",
+  "license": "WTFPL"
+}
