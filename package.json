@@ -4,6 +4,7 @@
   "description": "Simple API to do checks and keep good error reporting. For node.js or browser.",
   "main": "ensure.js",
   "scripts": {
+    "develop": "npx nodemon -w . -x 'npm test'",
     "build": "echo 'no building for @allnulled/lsw-trigger'",
     "versionate": "echo 'no versionate for @allnulled/lsw-trigger'",
     "test": "node test.js"
